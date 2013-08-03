@@ -20,7 +20,7 @@ union chardouble{
 };
 
 union charint{
-	char raw[sizeof(int)];
+	//char raw[sizeof(int)];
 	int num;
 };
 
