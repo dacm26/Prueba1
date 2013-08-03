@@ -25,7 +25,7 @@ union charint{
 };
 
 int main(int argc, char* argv[]){
-	ifstream in("file.bin", ios::in|ios::binary);
+	/*ifstream in("file.bin", ios::in|ios::binary);
 	Data data;
 	chardouble cd;
 	charint ci;
@@ -43,7 +43,7 @@ int main(int argc, char* argv[]){
 		
 	}
 	in.close();
-	
+	*/
 	/*
 	ofstream out("file.bin", ios::out|ios::binary);
 	Data data;
